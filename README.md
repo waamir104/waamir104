@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**waamir104/waamir104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 👋 Hi there, I’m William Peña
 
 - 🔭 I’m currently working on full-stack web applications with Spring Boot and Angular, integrating diverse technologies including biometric devices and cloud deployments (Azure, OCI).  
@@ -10,8 +5,6 @@
 - 🤝 I’m looking for help with expanding my contributions to large-scale distributed systems and DevOps practices.  
 - 🌱 I’m currently learning advanced Spring Boot patterns, microservices with Kubernetes, and diving deeper into cloud-native architectures.  
 - 💬 Ask me about full-stack development with Java, Angular, SQL/NoSQL databases, virtual assistants, or integrating biometric devices into systems.  
-
--->
 
 ---
 ### 🐱My Github stats:
